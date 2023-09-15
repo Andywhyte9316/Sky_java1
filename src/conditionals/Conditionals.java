@@ -4,14 +4,14 @@ public class Conditionals {
 
     public static void main(String[] args) {
 
-        /*int x = 3, y = 5;
-        if (x >= 0)
+        int x = 3, y = 5;
+        if (x >= 0){
             if (y < x)
                 System.out.println("y is less than x");
-        else
-                System.out.println("x is negative");
+            else
+                System.out.println("x is negative");}
 
-*/
+
          /*
         int x = 7;
         if (x == 0)
