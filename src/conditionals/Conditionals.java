@@ -7,8 +7,8 @@ public class Conditionals {
         /*int x = 3, y = 5;
         if (x >= 0){
             if (y < x)
-                System.out.println("y is less than x");
-            else
+                System.out.println("y is less than x");}
+            { else
                 System.out.println("x is negative");}
 
 
