@@ -1,7 +1,5 @@
 package Recap;
-
 import java.util.Scanner;
-import java.util.concurrent.Callable;
 
 public class calculatorApp {
     public static void main(String[] args) {
