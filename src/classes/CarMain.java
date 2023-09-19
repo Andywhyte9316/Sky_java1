@@ -12,6 +12,8 @@ public class CarMain {
          driver.setCar(C1);
         System.out.println(driver.getCar().milesDriven(300));
 
+        Convertible con1 = new Convertible("red","as12","audi","TT");
+
 
         // 1 // Car Class
         // - colour
