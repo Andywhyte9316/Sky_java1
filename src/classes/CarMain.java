@@ -14,6 +14,13 @@ public class CarMain {
 
         Convertible con1 = new Convertible("red","as12","audi","TT");
 
+        Position C2 = new Position();
+        System.out.println(C2);
+
+        CarDriver newDriver = new CarDriver();
+        newDriver.setCar(C1);
+
+
 
         // 1 // Car Class
         // - colour

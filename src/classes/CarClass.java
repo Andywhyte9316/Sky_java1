@@ -1,6 +1,16 @@
 package classes;
 
-public class CarClass {
+public class CarClass implements IDrivable{
+    @Override
+    public double MilesDriven(double miles) {
+        return miles;
+    }
+
+    @Override
+    public void milesTrip(int miles) {
+
+    }
+
     public static class Car {
         private String colour;
         private String reg;
